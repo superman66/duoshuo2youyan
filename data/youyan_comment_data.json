@@ -1,0 +1,31 @@
+[
+  {
+    "su": "",
+    "url": "http://d.com/a.html",
+    "title": "测试一下，你就知道",
+    "content": "c",
+    "time": "2012-10-09 10:40:29",
+    "uname": "test",
+    "email": "zhangsan@sina.com",
+    "ulink": "http://blog.jiathis.com",
+    "status": "0",
+    "child": [
+      {
+        "content": "@test: e",
+        "time": "2012-10-09 10:40:51",
+        "uname": "test",
+        "email": "zhangsan@sina.com",
+        "ulink": "http://blog.jiathis.com",
+        "status": "0"
+      },
+      {
+        "content": "@test: d",
+        "time": "2012-10-09 10:40:37",
+        "uname": "test",
+        "email": "zhangsan@sina.com",
+        "ulink": "http://blog.jiathis.com",
+        "status": "0"
+      }
+    ]
+  }
+]
