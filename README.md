@@ -18,8 +18,8 @@ posts是来自多说的评论，不包括微博、以删除评论、垃圾评论
 * post_id 多说评论ID。
 * thread_id 这条评论对应的文章记录。
 * message 评论内容。
-  * created_at 评论发表时间。
-  * author_id 作者在多说的id。空表示匿名用户。
+* created_at 评论发表时间。
+* author_id 作者在多说的id。空表示匿名用户。
 * author_name 作者显示名。有可能为空。
 * author_email 作者邮箱。有可能为空。
 * author_url 作者填写的URL。有可能为空。
