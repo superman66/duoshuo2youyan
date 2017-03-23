@@ -30,7 +30,7 @@ posts是来自多说的评论，不包括微博、以删除评论、垃圾评论
 {
      "generator": "duoshuo",
      "version": "0.1",
-     “threads”: [
+     "threads": [
         {
             "site_id": "1130416",
             "thread_id": "6254868783102427906",
